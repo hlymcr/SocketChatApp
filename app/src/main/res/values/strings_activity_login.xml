@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_activity_login">Join</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Kullanıcı Adın?</string>
+    <string name="action_sign_in">Katıl</string>
+    <string name="action_sign_in_short">Katıl</string>
+
+    <string name="error_field_required">Bu alan gereklidir</string>
+</resources>
